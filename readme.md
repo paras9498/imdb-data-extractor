@@ -14,6 +14,6 @@ To run this project, ensure you have Python 3.x installed. Then, you can install
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/paras9498/imdb-data-extractor.git
+   cd imdb-data-extractor
    ```
