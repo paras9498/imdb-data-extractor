@@ -17,3 +17,9 @@ To run this project, ensure you have Python 3.x installed. Then, you can install
    git clone https://github.com/paras9498/imdb-data-extractor.git
    cd imdb-data-extractor
    ```
+
+2. Install required pakages:
+   pip install -r requirements.txt
+
+3. To run the scraper, execute the following command
+   python imdb.py
