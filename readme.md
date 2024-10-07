@@ -20,8 +20,10 @@ To run this project, ensure you have Python 3.x installed. Then, you can install
 
 2. Install required pakages:
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+   ```
 
 4. To run the scraper, execute the following command
    ```bash
-   python imdb.py```
+   python imdb.py
+   ```
