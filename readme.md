@@ -19,7 +19,9 @@ To run this project, ensure you have Python 3.x installed. Then, you can install
    ```
 
 2. Install required pakages:
-   ```pip install -r requirements.txt```
+   ```bash
+   pip install -r requirements.txt```
 
-3. To run the scraper, execute the following command
-   ```python imdb.py```
+4. To run the scraper, execute the following command
+   ```bash
+   python imdb.py```
